@@ -1,0 +1,842 @@
+Today's Halloween customs are thought to have been influenced by folk customs
+ and beliefs from the Celtic-speaking countries, some of which are believed 
+ to have pagan roots.[35][36] Jack Santino, a folklorist, writes that "there was 
+ throughout Ireland an uneasy truce existing between customs and beliefs associated 
+ with Christianity and those associated with religions that were Irish before Christianity 
+ arrived".[37] Historian Nicholas Rogers, exploring the origins of Halloween, notes that while 
+ "some folklorists have detected its origins in the Roman feast of Pomona, the goddess of 
+ fruits and seeds, or in the festival of the dead called Parentalia, it is more typically 
+ linked to the Celtic festival of Samhain, which comes from the Old Irish for "summer's end".[35]
+
+Samhain (pronounced /ˈsɑːwɪn/ SAH-win or /ˈsaʊ.ɪn/ SOW-in) was the first and most important of 
+the four quarter days in the medieval Gaelic calendar and was celebrated on 31 October – 1 November in Ireland,
+ Scotland and the Isle of Man.[38][39] A kindred festival was held at the same time of year by the Brittonic Celts,
+  called Calan Gaeaf in Wales, Kalan Gwav in Cornwall and Kalan Goañv in Brittany;
+  
+ a name meaning "first day of winter". For the Celts, the day ended and began at sunset; 
+ thus the festival began on the evening before 1 November by modern reckoning.[40] Samhain
+  and Calan Gaeaf are mentioned in some of the earliest Irish and Welsh literature. 
+  The names have been used by historians to refer to Celtic Halloween customs up
+   until the 19th century,[41] and are still the Gaelic and Welsh names for Halloween.
+   
+ Main Topics: Quantum Theory and the Uncertainty Principle
+INTRODUCTION
+
+Topic Index:
+ - Introduction
+ - Early Developments in Atomic Theory
+ - Quanta and Wave-Particle Duality
+ - Probability Waves and Complementarity
+ - Superposition, Interference and Decoherence
+ - Quantum Tunnelling and the Uncertainty Principle
+ - Nonlocality and Entanglement
+ - Spin and the Pauli Exclusion Principle
+ - Conclusion
+Quantum theory (otherwise known as quantum physics or quantum mechanics) is one 
+of the two main planks of modern physics, along with general relativity, and between them the two theories claim to explain virtually everything about the universe. General relativity gives us our picture of the very big (space-time and gravity), while quantum theory gives us our picture of the very small (atoms and their 
+constituents).
+
+Technically, quantum theory is actually the theory of any objects isolated from their surroundings 
+but, because it is very difficult to isolate large objects from their environments, 
+it essentially becomes a theory of the microscopic world of atoms and sub-atomic particles. This is especially true for those parts of the theory which rely on the absolute indistinguishability of fundamental particles, an indistinguishability which is impossible to find in the everyday world of composite, large-scale objects.
+
+Quantum theory is used in a huge variety of applications in everyday life, including
+ lasers, CDs, DVDs, solar cells, fibre-optics, digital cameras, photocopiers, bar-code 
+ readers, fluorescent lights, LED lights, computer screens, transistors, semi-conductors, super-conductors, 
+ spectroscopy, MRI scanners, etc, etc. By some estimates, over 25% of the GDP of developed countries 
+ is directly based on quantum physics. It even explains the nuclear fusion processes taking place inside stars.
+
+However, some of its findings and principles are distinctly counter-intuitive and fiendishly
+ difficult to explain in simple language, without resorting to complex mathematics way beyond the
+  comfort level of most people (myself included!). This situation is not helped by the fact that the “theory” 
+  is largely a patchwork of fragments accrued over the last century or so, that some elements of it are still 
+  not well understood by the scientists themselves, and that some of the bizarre behaviour it predicts appears
+   to fly in face of what we have come to think of as common sense.
+
+A small part of the derivation for Schrödinger's equation of quantum mechanics - click for
+ larger version
+(Click for a larger version)
+A small part of the derivation for Schrödinger's equation of quantum mechanics
+(Source: Wikipedia: http://en.wikipedia.org/wiki/
+Schr%C3%B6dinger_equation)
+Richard Feynman, winner of the 1965 Nobel Prize for Physics and arguably one of the greatest physicists of the post-war era, is unapologetically frank: “I think I can safely say that nobody understands quantum mechanics”. Niels Bohr, one the main pioneers of quantum theory, claimed that: “Anyone who is not shocked by quantum theory has not understood it”.
+
+In the 1920s and 1930s, Bohr, Schrödinger, Heisenberg and others discovered that the atomic world is in fact full of murkiness and chaos, and not the precision clockwork suggested by classical theory. Classical physics can be considered as a good approximation to quantum physics, typically in circumstances with large numbers of particles. Indeed, classical physics has served us well up until the 20th Century, and for most everyday purposes it still does. But modern physics, which includes quantum physics and general relativity, is more all-encompassing, more fundamental and altogether more accurate - physics taken to a different level. Momentum and position, for instance, are approximations of the world of larger-sized things that we call the classical world, but the underlying reality of the quantum world is quite different.
+
+As we will see, even a rough understanding of quantum theory requires some background discussion of atomic theory and some discussion of the uncertainty principle before any sense at all can be made of it. Only then will some of the more obscure and bizarre aspects of quantum theory (such as wave-particle duality, superposition, nonlocality, decoherence, etc) make a little more se
+RAGAM-Ganamurthi (3rd Melakartha)
+ AROHANA: S R1 G1 M1 P D1 N3 S ||
+ AVAROHANA: S N3 D1 P M1 G1 R1 S ||
+Talam: Deshadi
+Composer: Tyagaraja
+Version: T N Seshagopalan
+Pallavi:
+Gaanamurthe! Sri Krishna! Venu-Gaanalola! Tribhuvana Paala! Paahi
+Anupallavi:
+Maaninimani Sri Rukmini Maanasaapahaara! Maarajanaka Divya
+Charanam:
+Navaneetha Chora ! Nanda Satkishora! Naramitra! Dhira! Narasimha! Sura!
+Navamekha Teja ! Nagajaa Sahaja! Narakaantakaaja! Nata Tyagaraaja!
+Meaning:
+O Embodiment (“murthe”) of music (“Gaana”), Sri Krishna! Lover (“lola”) of playing the flute
+(“venugaana”)! Protector (“paala”) of the three (“tri”) worlds (“bhuvana”)! Pray, protect me (“paahi”).
+One who stole(“apahaara”) the heart (“maanasa”) of Rukmini, the jewel (“mani”) among the women
+(“maanini”), and Creator (“janaka”) of Cupid (“maara”)!
+One who steals (“chora”) butter (“navaneetha”), son (“satkishora”) of Nanda, and friend (“mitra”) of
+Arjuna (“nara”). O Courageous (“dhira”) one! O Narasimha! O Brave one (“sura”)! Having the hue
+(“teja”) of the dark (“nava”) clouds (“mekha”)! Brother (“sahaja”) of goddess Parvath (“nagajaa”)i!
+Destroyer (“antakaja”) of Narakasura (“naraka”)! O the one without a beginning (“antakaja” -- second
+meaning)! Pray (“nata”) protect me!
+Pallavi:
+Gaanamurthe! Sri Krishna! Venu-Gaanalola! Tribhuvana Paala! Paahi
+O Embodiment (“murthe”) of music (“Gaana”), Sri Krishna!
+; ; ; G ; G grR ; | S ; ; ; ; ; ; ; ||
+- - - Gaa - na mur-- the!
+S ; ,r- G ; G grR ; | S ; ; S ,r G ; M ||
+Ve nu Gaa - na mur-- the! Sri- - Kri - shna!
+P , d pm- gpmg ; G grR ; | S ; ; S ,r G ; M ||
+Ve nu- Gaa - - na mur-- the! Sri- - Kri - shna!
+P , d pm- pmG ; G g r R | S ; ; S ,r G ; M ||
+Ve nu- Gaa - - na mur-- the! Sri- - Kri - shna!
+P , d p md- pmG ; G g r R | rsS ; rr s S-g ; M ||
+Ve nu- Gaa - - na mur-- the! Sri- - - Kri - shna!
+Lover (“lola”) of playing the flute (“venugaana”)!
+P , d p md- pmG ; G P ; | ; ; ; ; ; ; P ; ||
+Ve nu- Gaa - - na lo - - - - - - - la -
+Protector (“paala”) of the three (“tri”) worlds (“bhuvana”)! Pray, protect me (“paahi”). 
+P ; P - pmG ,g P , P, | ; md , p M dp D ; M ||
+Ve nu- Gaa - na lo - la - Tribhu-vana Paa-la! - PaapD-
+d pm- G ; G grR ; | rsS ; rr s S-g ; M ||
+- - hi - - Gaa - - na mur-- the! Sri- - - Kri - shna!
+P dn dp M ,d - pmG , g P , P, | ; md , p M dp D ; dn ||
+Ve - - nu- - - Gaa - - na lo - la - Tribhu -vana Paa-la! - Paasn
+dn dp M , d- G ; G ddpm | G ; gr R S ; ; ; ||
+- - - - hi - - - - Gaa - - na mur-- - - - - - the! - -
+Anupallavi:
+Maaninimani Sri Rukmini
+Maanasaapahaara! Maarajanaka Divya
+… Rukmini, the jewel (“mani”) among the women (“maanini”),
+; ; ; , p ,d- sn D N | S ; ; ; ; ; ; ; ||
+- - - -Maa -ni ni- - ma ni - - - - - - -
+; ; ; P D- sn D N | S ; ; R ; R ; R ||
+- - - Maa ni ni- - ma ni - - Sri - Ru - kmi
+S ; ; P D- sn D N | S ; ; R ; R ; R ||
+ni - - Maa ni ni- - ma ni - - Sri - Ru - kmi
+S ; ; P D- sn D N | S ; ; G ; R ; R ||
+ni - - Maa ni ni- - ma ni - - Sri - Ru - kmi
+grrs S- P D- rs nd- N | S ; ns rpmmG ; R ; R ||
+ni - - Maa ni ni- - - ma ni - Sri - - - - - Ru - kmi
+One who stole(“apahaara”) the heart (“maanasa”) of Rukmini,
+grR rs- P ,d- P ; - pm | d p D ; ; ; ; ; S,n ||
+ni - - Maa na saa - pa- haa-ra! - - - - Ruk-
+… and Creator (“janaka”) of Cupid (“maara”)!
+dn dpM ; - P ,d- P ; - pm | d p D ; P n D-m P Mpd ||
+mi ni - - Maa na saa - pa- haa-ra! - Maa - ra ja na ka--
+pmG , m P- P ,d- P ; - pm | d p D ; sn dp - nd pm-P,d ||
+Div- - ya - Maa na saa - pa- haa-ra! - Maa ra- ja- na- ka--
+pmG , m pdDiv-
+- ya - (Gaanamurthe)
+; ; ; - pmG ; G g r R | rsS ; rr s S-g ; M ||
+-- - - Gaa - - na mur-- the! Sri- - - Kri - shna!
+P dn dp M ,d - pmG , g P , P, | ; md , p M dp D ; dn ||
+Ve - - nu- - - Gaa - - na lo - la - Tribhu -vana Paa-la! - Paa- 
+sn dn dp M , d- G ; G ddpm | G ; gr R S ; ; ; ||
+- - - - hi - - - - Gaa - - na mur-- - - - - - the! - -
+Charanam:
+Navaneetha Chora ! Nanda Satkishora! Naramitra! Dhira! Narasimha! Sura!
+Navamekha Teja ! Nagajaa Sahaja! Narakaantakaaja! Nata Tyagaraaja!
+One who steals (“chora”) butter (“navaneetha”),
+; ; ; M M M ; M | gG-m , ; ; ; ; ; ||
+- - -Na vanee - tha Cho-ra !- - - - - -
+; ; ; dp M M ; M | gG-m , ; ; ; ; rg ||
+- - -Na vanee - tha Cho-ra !- - - - - - 
+
+1.1.3 Automata theory
+Automata Theory deals with definitions and properties of different types of
+“computation models”. Examples of such models are:
+• Finite Automata. These are used in text processing, compilers, and
+hardware design.
+• Context-Free Grammars. These are used to define programming languages
+and in Artificial Intelligence.
+• Turing Machines. These form a simple abstract model of a “real”
+computer, such as your PC at home.
+Central Question in Automata Theory: Do these models have
+the same power, or can one model solve more problems than the
+other?
+1.1.4 This course
+In this course, we will study the last two areas in reverse order: We will start
+with Automata Theory, followed by Computability Theory. The first area,
+Complexity Theory, will be covered in COMP 3804.
+Actually, before we start, we will review some mathematical proof techniques.
+As you may guess, this is a fairly theoretical course, with lots of
+definitions, theorems, and proofs. You may guess this course is fun stuff for
+math lovers, but boring and irrelevant for others. You guessed it wrong, and
+here are the reasons:
+1. This course is about the fundamental capabilities and limitations of
+computers. These topics form the core of computer science.
+2. It is about mathematical properties of computer hardware and software.
+3. This theory is very much relevant to practice, for example, in the design
+of new programming languages, compilers, string searching, pattern
+matching, computer security, artificial intelligence, etc., etc.
+4. This course helps you to learn problem solving skills. Theory teaches
+you how to think, prove, argue, solve problems, express, and abstract.
+4 Chapter 1. Introduction
+5. This theory simplifies the complex computers to an abstract and simple
+mathematical model, and helps you to understand them better.
+6. This course is about rigorously analyzing capabilities and limitations
+of systems.
+Where does this course fit in the Computer Science Curriculum at Carleton
+University? It is a theory course that is the third part in the series
+COMP 1805, COMP 2804, COMP 3803, COMP 3804, and COMP 4804.
+This course also widens your understanding of computers and will influence
+other courses including Compilers, Programming Languages, and Artificial
+Intelligence.
+1.2 Mathematical preliminaries
+Throughout this course, we will assume that you know the following mathematical
+concepts:
+1. A set is a collection of well-defined objects. Examples are (i) the set of
+all Dutch Olympic Gold Medallists, (ii) the set of all pubs in Ottawa,
+and (iii) the set of all even natural numbers.
+2. The set of natural numbers is N = {1, 2, 3, . . .}.
+3. The set of integers is Z = {. . . , −3, −2, −1, 0, 1, 2, 3, . . .}.
+4. The set of rational numbers is Q = {m/n : m ∈ Z, n ∈ Z, n 6= 0}.
+5. The set of real numbers is denoted by R.
+6. If A and B are sets, then A is a subset of B, written as A ⊆ B, if every
+element of A is also an element of B. For example, the set of even
+natural numbers is a subset of the set of all natural numbers. Every
+set A is a subset of itself, i.e., A ⊆ A. The empty set is a subset of
+every set A, i.e., ∅ ⊆ A.
+7. If B is a set, then the power set P(B) of B is defined to be the set of
+all subsets of B:
+P(B) = {A : A ⊆ B}.
+Observe that ∅ ∈ P(B) and B ∈ P(B).
+1.2. Mathematical preliminaries 5
+8. If A and B are two sets, then
+(a) their union is defined as
+A ∪ B = {x : x ∈ A or x ∈ B},
+(b) their intersection is defined as
+A ∩ B = {x : x ∈ A and x ∈ B},
+(c) their difference is defined as
+A \ B = {x : x ∈ A and x 6∈ B},
+(d) the Cartesian product of A and B is defined as
+A × B = {(x, y) : x ∈ A and y ∈ B},
+(e) the complement of A is defined as
+A = {x : x 6∈ A}.
+9. A binary relation on two sets A and B is a subset of A × B.
+10. A function f from A to B, denoted by f : A → B, is a binary relation
+R, having the property that for each element a ∈ A, there is exactly
+one ordered pair in R, whose first component is a. We will also say
+that f(a) = b, or f maps a to b, or the image of a under f is b. The
+set A is called the domain of f, and the set
+{b ∈ B : there is an a ∈ A with f(a) = b}
+is called the range of f.
+11. A function f : A → B is one-to-one (or injective), if for any two distinct
+elements a and a
+′
+in A, we have f(a) 6= f(a
+′
+). The function f is onto
+(or surjective), if for each element b ∈ B, there exists an element a ∈ A,
+such that f(a) = b; in other words, the range of f is equal to the set
+B. A function f is a bijection, if f is both injective and surjective.
+12. A binary relation R ⊆ A × A is an equivalence relation, if it satisfies
+the following three conditions:
+6 Chapter 1. Introduction
+(a) R is reflexive: For every element in a ∈ A, we have (a, a) ∈ R.
+(b) R is symmetric: For all a and b in A, if (a, b) ∈ R, then also
+(b, a) ∈ R.
+(c) R is transitive: For all a, b, and c in A, if (a, b) ∈ R and (b, c) ∈ R,
+then also (a, c) ∈ R.
+13. A graph G = (V, E) is a pair consisting of a set V , whose elements are
+called vertices, and a set E, where each element of E is a pair of distinct
+vertices. The elements of E are called edges. The figure below shows
+some well-known graphs: K5 (the complete graph on five vertices), K3,3
+(the complete bipartite graph on 2 × 3 = 6 vertices), and the Peterson
+graph.
+K5
+K3,3
+Peterson graph
+The degree of a vertex v, denoted by deg(v), is defined to be the number
+of edges that are incident on v.
+A path in a graph is a sequence of vertices that are connected by edges.
+A path is a cycle, if it starts and ends at the same vertex. A simple
+path is a path without any repeated vertices. A graph is connected, if
+there is a path between every pair of vertices.
+14. In the context of strings, an alphabet is a finite set, whose elements
+are called symbols. Examples of alphabets are Σ = {0, 1} and Σ =
+{a, b, c, . . . , z}.
+15. A string over an alphabet Σ is a finite sequence of symbols, where each
+symbol is an element of Σ. The length of a string w, denoted by |w|, is
+the number of symbols contained in w. The empty string, denoted by
+1.3. Proof techniques 7
+ǫ, is the string having length zero. For example, if the alphabet Σ is
+equal to {0, 1}, then 10, 1000, 0, 101, and ǫ are strings over Σ, having
+lengths 2, 4, 1, 3, and 0, respectively.
+16. A language is a set of strings.
+17. The Boolean values are 1 and 0, that represent true and false, respectively.
+The basic Boolean operations include
+(a) negation (or NOT ), represented by ¬,
+(b) conjunction (or AND), represented by ∧,
+(c) disjunction (or OR), represented by ∨,
+(d) exclusive-or (or XOR), represented by ⊕,
+(e) equivalence, represented by ↔ or ⇔,
+(f) implication, represented by → or ⇒.
+The following table explains the meanings of these operations.
+NOT AND OR XOR equivalence implication
+¬0 = 1 0 ∧ 0 = 0 0 ∨ 0 = 0 0 ⊕ 0 = 0 0 ↔ 0 = 1 0 → 0 = 1
+¬1 = 0 0 ∧ 1 = 0 0 ∨ 1 = 1 0 ⊕ 1 = 1 0 ↔ 1 = 0 0 → 1 = 1
+1 ∧ 0 = 0 1 ∨ 0 = 1 1 ⊕ 0 = 1 1 ↔ 0 = 0 1 → 0 = 0
+1 ∧ 1 = 1 1 ∨ 1 = 1 1 ⊕ 1 = 0 1 ↔ 1 = 1 1 → 1 = 1
+1.3 Proof techniques
+In mathematics, a theorem is a statement that is true. A proof is a sequence
+of mathematical statements that form an argument to show that a theorem is
+true. The statements in the proof of a theorem include axioms (assumptions
+about the underlying mathematical structures), hypotheses of the theorem
+to be proved, and previously proved theorems. The main question is “How
+do we go about proving theorems?” This question is similar to the question
+of how to solve a given problem. Of course, the answer is that finding proofs,
+or solving problems, is not easy; otherwise life would be dull! There is no
+specified way of coming up with a proof, but there are some generic strategies
+that could be of help. In this section, we review some of these strategies,
+that will be sufficient for this course. The best way to get a feeling of how
+to come up with a proof is by solving a large number of problems. Here are
+8 Chapter 1. Introduction
+some useful tips. (You may take a look at the book How to Solve It, by G.
+P´olya).
+1. Read and completely understand the statement of the theorem to be
+proved. Most often this is the hardest part.
+2. Sometimes, theorems contain theorems inside them. For example,
+“Property A if and only if property B”, requires showing two statements:
+(a) If property A is true, then property B is true (A ⇒ B).
+(b) If property B is true, then property A is true (B ⇒ A).
+Another example is the theorem “Set A equals set B.” To prove this,
+we need to prove that A ⊆ B and B ⊆ A. That is, we need to show
+that each element of set A is in set B, and that each element of set B
+is in set A.
+3. Try to work out a few simple cases of the theorem just to get a grip on
+it (i.e., crack a few simple cases first).
+4. Try to write down the proof once you have it. This is to ensure the
+correctness of your proof. Often, mistakes are found at the time of
+writing.
+5. Finding proofs takes time, we do not come prewired to produce proofs.
+Be patient, think, express and write clearly and try to be precise as
+much as possible.
+In the next sections, we will go through some of the proof strategies.
+1.3.1 Direct proofs
+As the name suggests, in a direct proof of a theorem, we just approach the
+theorem directly.
+Theorem 1.3.1 If n is an odd positive integer, then n
+2
+is odd as well
+Today's Halloween customs are thought to have been influenced by folk customs
+ and beliefs from the Celtic-speaking countries, some of which are believed 
+ to have pagan roots.[35][36] Jack Santino, a folklorist, writes that "there was 
+ throughout Ireland an uneasy truce existing between customs and beliefs associated 
+ with Christianity and those associated with religions that were Irish before Christianity 
+ arrived".[37] Historian Nicholas Rogers, exploring the origins of Halloween, notes that while 
+ "some folklorists have detected its origins in the Roman feast of Pomona, the goddess of 
+ fruits and seeds, or in the festival of the dead called Parentalia, it is more typically 
+ linked to the Celtic festival of Samhain, which comes from the Old Irish for "summer's end".[35]
+
+Samhain (pronounced /ˈsɑːwɪn/ SAH-win or /ˈsaʊ.ɪn/ SOW-in) was the first and most important of 
+the four quarter days in the medieval Gaelic calendar and was celebrated on 31 October – 1 November in Ireland,
+ Scotland and the Isle of Man.[38][39] A kindred festival was held at the same time of year by the Brittonic Celts,
+  called Calan Gaeaf in Wales, Kalan Gwav in Cornwall and Kalan Goañv in Brittany;
+  
+ a name meaning "first day of winter". For the Celts, the day ended and began at sunset; 
+ thus the festival began on the evening before 1 November by modern reckoning.[40] Samhain
+  and Calan Gaeaf are mentioned in some of the earliest Irish and Welsh literature. 
+  The names have been used by historians to refer to Celtic Halloween customs up
+   until the 19th century,[41] and are still the Gaelic and Welsh names for Halloween.
+   
+ Main Topics: Quantum Theory and the Uncertainty Principle
+INTRODUCTION
+
+Topic Index:
+ - Introduction
+ - Early Developments in Atomic Theory
+ - Quanta and Wave-Particle Duality
+ - Probability Waves and Complementarity
+ - Superposition, Interference and Decoherence
+ - Quantum Tunnelling and the Uncertainty Principle
+ - Nonlocality and Entanglement
+ - Spin and the Pauli Exclusion Principle
+ - Conclusion
+Quantum theory (otherwise known as quantum physics or quantum mechanics) is one 
+of the two main planks of modern physics, along with general relativity, and between them the two theories claim to explain virtually everything about the universe. General relativity gives us our picture of the very big (space-time and gravity), while quantum theory gives us our picture of the very small (atoms and their 
+constituents).
+
+Technically, quantum theory is actually the theory of any objects isolated from their surroundings 
+but, because it is very difficult to isolate large objects from their environments, 
+it essentially becomes a theory of the microscopic world of atoms and sub-atomic particles. This is especially true for those parts of the theory which rely on the absolute indistinguishability of fundamental particles, an indistinguishability which is impossible to find in the everyday world of composite, large-scale objects.
+
+Quantum theory is used in a huge variety of applications in everyday life, including
+ lasers, CDs, DVDs, solar cells, fibre-optics, digital cameras, photocopiers, bar-code 
+ readers, fluorescent lights, LED lights, computer screens, transistors, semi-conductors, super-conductors, 
+ spectroscopy, MRI scanners, etc, etc. By some estimates, over 25% of the GDP of developed countries 
+ is directly based on quantum physics. It even explains the nuclear fusion processes taking place inside stars.
+
+However, some of its findings and principles are distinctly counter-intuitive and fiendishly
+ difficult to explain in simple language, without resorting to complex mathematics way beyond the
+  comfort level of most people (myself included!). This situation is not helped by the fact that the “theory” 
+  is largely a patchwork of fragments accrued over the last century or so, that some elements of it are still 
+  not well understood by the scientists themselves, and that some of the bizarre behaviour it predicts appears
+   to fly in face of what we have come to think of as common sense.
+
+A small part of the derivation for Schrödinger's equation of quantum mechanics - click for
+ larger version
+(Click for a larger version)
+A small part of the derivation for Schrödinger's equation of quantum mechanics
+(Source: Wikipedia: http://en.wikipedia.org/wiki/
+Schr%C3%B6dinger_equation)
+Richard Feynman, winner of the 1965 Nobel Prize for Physics and arguably one of the greatest physicists of the post-war era, is unapologetically frank: “I think I can safely say that nobody understands quantum mechanics”. Niels Bohr, one the main pioneers of quantum theory, claimed that: “Anyone who is not shocked by quantum theory has not understood it”.
+
+In the 1920s and 1930s, Bohr, Schrödinger, Heisenberg and others discovered that the atomic world is in fact full of murkiness and chaos, and not the precision clockwork suggested by classical theory. Classical physics can be considered as a good approximation to quantum physics, typically in circumstances with large numbers of particles. Indeed, classical physics has served us well up until the 20th Century, and for most everyday purposes it still does. But modern physics, which includes quantum physics and general relativity, is more all-encompassing, more fundamental and altogether more accurate - physics taken to a different level. Momentum and position, for instance, are approximations of the world of larger-sized things that we call the classical world, but the underlying reality of the quantum world is quite different.
+
+As we will see, even a rough understanding of quantum theory requires some background discussion of atomic theory and some discussion of the uncertainty principle before any sense at all can be made of it. Only then will some of the more obscure and bizarre aspects of quantum theory (such as wave-particle duality, superposition, nonlocality, decoherence, etc) make a little more se
+RAGAM-Ganamurthi (3rd Melakartha)
+ AROHANA: S R1 G1 M1 P D1 N3 S ||
+ AVAROHANA: S N3 D1 P M1 G1 R1 S ||
+Talam: Deshadi
+Composer: Tyagaraja
+Version: T N Seshagopalan
+Pallavi:
+Gaanamurthe! Sri Krishna! Venu-Gaanalola! Tribhuvana Paala! Paahi
+Anupallavi:
+Maaninimani Sri Rukmini Maanasaapahaara! Maarajanaka Divya
+Charanam:
+Navaneetha Chora ! Nanda Satkishora! Naramitra! Dhira! Narasimha! Sura!
+Navamekha Teja ! Nagajaa Sahaja! Narakaantakaaja! Nata Tyagaraaja!
+Meaning:
+O Embodiment (“murthe”) of music (“Gaana”), Sri Krishna! Lover (“lola”) of playing the flute
+(“venugaana”)! Protector (“paala”) of the three (“tri”) worlds (“bhuvana”)! Pray, protect me (“paahi”).
+One who stole(“apahaara”) the heart (“maanasa”) of Rukmini, the jewel (“mani”) among the women
+(“maanini”), and Creator (“janaka”) of Cupid (“maara”)!
+One who steals (“chora”) butter (“navaneetha”), son (“satkishora”) of Nanda, and friend (“mitra”) of
+Arjuna (“nara”). O Courageous (“dhira”) one! O Narasimha! O Brave one (“sura”)! Having the hue
+(“teja”) of the dark (“nava”) clouds (“mekha”)! Brother (“sahaja”) of goddess Parvath (“nagajaa”)i!
+Destroyer (“antakaja”) of Narakasura (“naraka”)! O the one without a beginning (“antakaja” -- second
+meaning)! Pray (“nata”) protect me!
+Pallavi:
+Gaanamurthe! Sri Krishna! Venu-Gaanalola! Tribhuvana Paala! Paahi
+Today's Halloween customs are thought to have been influenced by folk customs
+ and beliefs from the Celtic-speaking countries, some of which are believed 
+ to have pagan roots.[35][36] Jack Santino, a folklorist, writes that "there was 
+ throughout Ireland an uneasy truce existing between customs and beliefs associated 
+ with Christianity and those associated with religions that were Irish before Christianity 
+ arrived".[37] Historian Nicholas Rogers, exploring the origins of Halloween, notes that while 
+ "some folklorists have detected its origins in the Roman feast of Pomona, the goddess of 
+ fruits and seeds, or in the festival of the dead called Parentalia, it is more typically 
+ linked to the Celtic festival of Samhain, which comes from the Old Irish for "summer's end".[35]
+
+Samhain (pronounced /ˈsɑːwɪn/ SAH-win or /ˈsaʊ.ɪn/ SOW-in) was the first and most important of 
+the four quarter days in the medieval Gaelic calendar and was celebrated on 31 October – 1 November in Ireland,
+ Scotland and the Isle of Man.[38][39] A kindred festival was held at the same time of year by the Brittonic Celts,
+  called Calan Gaeaf in Wales, Kalan Gwav in Cornwall and Kalan Goañv in Brittany;
+  
+ a name meaning "first day of winter". For the Celts, the day ended and began at sunset; 
+ thus the festival began on the evening before 1 November by modern reckoning.[40] Samhain
+  and Calan Gaeaf are mentioned in some of the earliest Irish and Welsh literature. 
+  The names have been used by historians to refer to Celtic Halloween customs up
+   until the 19th century,[41] and are still the Gaelic and Welsh names for Halloween.
+   
+ Main Topics: Quantum Theory and the Uncertainty Principle
+INTRODUCTION
+
+Topic Index:
+ - Introduction
+ - Early Developments in Atomic Theory
+ - Quanta and Wave-Particle Duality
+ - Probability Waves and Complementarity
+ - Superposition, Interference and Decoherence
+ - Quantum Tunnelling and the Uncertainty Principle
+ - Nonlocality and Entanglement
+ - Spin and the Pauli Exclusion Principle
+ - Conclusion
+Quantum theory (otherwise known as quantum physics or quantum mechanics) is one 
+of the two main planks of modern physics, along with general relativity, and between them the two theories claim to explain virtually everything about the universe. General relativity gives us our picture of the very big (space-time and gravity), while quantum theory gives us our picture of the very small (atoms and their 
+constituents).
+
+Technically, quantum theory is actually the theory of any objects isolated from their surroundings 
+but, because it is very difficult to isolate large objects from their environments, 
+it essentially becomes a theory of the microscopic world of atoms and sub-atomic particles. This is especially true for those parts of the theory which rely on the absolute indistinguishability of fundamental particles, an indistinguishability which is impossible to find in the everyday world of composite, large-scale objects.
+
+Quantum theory is used in a huge variety of applications in everyday life, including
+ lasers, CDs, DVDs, solar cells, fibre-optics, digital cameras, photocopiers, bar-code 
+ readers, fluorescent lights, LED lights, computer screens, transistors, semi-conductors, super-conductors, 
+ spectroscopy, MRI scanners, etc, etc. By some estimates, over 25% of the GDP of developed countries 
+ is directly based on quantum physics. It even explains the nuclear fusion processes taking place inside stars.
+
+However, some of its findings and principles are distinctly counter-intuitive and fiendishly
+ difficult to explain in simple language, without resorting to complex mathematics way beyond the
+  comfort level of most people (myself included!). This situation is not helped by the fact that the “theory” 
+  is largely a patchwork of fragments accrued over the last century or so, that some elements of it are still 
+  not well understood by the scientists themselves, and that some of the bizarre behaviour it predicts appears
+   to fly in face of what we have come to think of as common sense.
+
+A small part of the derivation for Schrödinger's equation of quantum mechanics - click for
+ larger version
+(Click for a larger version)
+A small part of the derivation for Schrödinger's equation of quantum mechanics
+(Source: Wikipedia: http://en.wikipedia.org/wiki/
+Schr%C3%B6dinger_equation)
+Richard Feynman, winner of the 1965 Nobel Prize for Physics and arguably one of the greatest physicists of the post-war era, is unapologetically frank: “I think I can safely say that nobody understands quantum mechanics”. Niels Bohr, one the main pioneers of quantum theory, claimed that: “Anyone who is not shocked by quantum theory has not understood it”.
+
+In the 1920s and 1930s, Bohr, Schrödinger, Heisenberg and others discovered that the atomic world is in fact full of murkiness and chaos, and not the precision clockwork suggested by classical theory. Classical physics can be considered as a good approximation to quantum physics, typically in circumstances with large numbers of particles. Indeed, classical physics has served us well up until the 20th Century, and for most everyday purposes it still does. But modern physics, which includes quantum physics and general relativity, is more all-encompassing, more fundamental and altogether more accurate - physics taken to a different level. Momentum and position, for instance, are approximations of the world of larger-sized things that we call the classical world, but the underlying reality of the quantum world is quite different.
+
+As we will see, even a rough understanding of quantum theory requires some background discussion of atomic theory and some discussion of the uncertainty principle before any sense at all can be made of it. Only then will some of the more obscure and bizarre aspects of quantum theory (such as wave-particle duality, superposition, nonlocality, decoherence, etc) make a little more se
+RAGAM-Ganamurthi (3rd Melakartha)
+ AROHANA: S R1 G1 M1 P D1 N3 S ||
+ AVAROHANA: S N3 D1 P M1 G1 R1 S ||
+Talam: Deshadi
+Composer: Tyagaraja
+Version: T N Seshagopalan
+Pallavi:
+Gaanamurthe! Sri Krishna! Venu-Gaanalola! Tribhuvana Paala! Paahi
+Anupallavi:
+Maaninimani Sri Rukmini Maanasaapahaara! Maarajanaka Divya
+Charanam:
+Navaneetha Chora ! Nanda Satkishora! Naramitra! Dhira! Narasimha! Sura!
+Navamekha Teja ! Nagajaa Sahaja! Narakaantakaaja! Nata Tyagaraaja!
+Meaning:
+O Embodiment (“murthe”) of music (“Gaana”), Sri Krishna! Lover (“lola”) of playing the flute
+(“venugaana”)! Protector (“paala”) of the three (“tri”) worlds (“bhuvana”)! Pray, protect me (“paahi”).
+One who stole(“apahaara”) the heart (“maanasa”) of Rukmini, the jewel (“mani”) among the women
+(“maanini”), and Creator (“janaka”) of Cupid (“maara”)!
+One who steals (“chora”) butter (“navaneetha”), son (“satkishora”) of Nanda, and friend (“mitra”) of
+Arjuna (“nara”). O Courageous (“dhira”) one! O Narasimha! O Brave one (“sura”)! Having the hue
+(“teja”) of the dark (“nava”) clouds (“mekha”)! Brother (“sahaja”) of goddess Parvath (“nagajaa”)i!
+Destroyer (“antakaja”) of Narakasura (“naraka”)! O the one without a beginning (“antakaja” -- second
+meaning)! Pray (“nata”) protect me!
+Pallavi:
+Gaanamurthe! Sri Krishna! Venu-Gaanalola! Tribhuvana Paala! Paahi
+O Embodiment (“murthe”) of music (“Gaana”), Sri Krishna!
+; ; ; G ; G grR ; | S ; ; ; ; ; ; ; ||
+- - - Gaa - na mur-- the!
+S ; ,r- G ; G grR ; | S ; ; S ,r G ; M ||
+Ve nu Gaa - na mur-- the! Sri- - Kri - shna!
+P , d pm- gpmg ; G grR ; | S ; ; S ,r G ; M ||
+Ve nu- Gaa - - na mur-- the! Sri- - Kri - shna!
+P , d pm- pmG ; G g r R | S ; ; S ,r G ; M ||
+Ve nu- Gaa - - na mur-- the! Sri- - Kri - shna!
+P , d p md- pmG ; G g r R | rsS ; rr s S-g ; M ||
+Ve nu- Gaa - - na mur-- the! Sri- - - Kri - shna!
+Lover (“lola”) of playing the flute (“venugaana”)!
+P , d p md- pmG ; G P ; | ; ; ; ; ; ; P ; ||
+Ve nu- Gaa - - na lo - - - - - - - la -
+Protector (“paala”) of the three (“tri”) worlds (“bhuvana”)! Pray, protect me (“paahi”). 
+P ; P - pmG ,g P , P, | ; md , p M dp D ; M ||
+Ve nu- Gaa - na lo - la - Tribhu-vana Paa-la! - PaapD-
+d pm- G ; G grR ; | rsS ; rr s S-g ; M ||
+- - hi - - Gaa - - na mur-- the! Sri- - - Kri - shna!
+P dn dp M ,d - pmG , g P , P, | ; md , p M dp D ; dn ||
+Ve - - nu- - - Gaa - - na lo - la - Tribhu -vana Paa-la! - Paasn
+dn dp M , d- G ; G ddpm | G ; gr R S ; ; ; ||
+- - - - hi - - - - Gaa - - na mur-- - - - - - the! - -
+Anupallavi:
+Maaninimani Sri Rukmini
+Maanasaapahaara! Maarajanaka Divya
+… Rukmini, the jewel (“mani”) among the women (“maanini”),
+; ; ; , p ,d- sn D N | S ; ; ; ; ; ; ; ||
+- - - -Maa -ni ni- - ma ni - - - - - - -
+; ; ; P D- sn D N | S ; ; R ; R ; R ||
+- - - Maa ni ni- - ma ni - - Sri - Ru - kmi
+S ; ; P D- sn D N | S ; ; R ; R ; R ||
+ni - - Maa ni ni- - ma ni - - Sri - Ru - kmi
+S ; ; P D- sn D N | S ; ; G ; R ; R ||
+ni - - Maa ni ni- - ma ni - - Sri - Ru - kmi
+grrs S- P D- rs nd- N | S ; ns rpmmG ; R ; R ||
+ni - - Maa ni ni- - - ma ni - Sri - - - - - Ru - kmi
+One who stole(“apahaara”) the heart (“maanasa”) of Rukmini,
+grR rs- P ,d- P ; - pm | d p D ; ; ; ; ; S,n ||
+ni - - Maa na saa - pa- haa-ra! - - - - Ruk-
+… and Creator (“janaka”) of Cupid (“maara”)!
+dn dpM ; - P ,d- P ; - pm | d p D ; P n D-m P Mpd ||
+mi ni - - Maa na saa - pa- haa-ra! - Maa - ra ja na ka--
+pmG , m P- P ,d- P ; - pm | d p D ; sn dp - nd pm-P,d ||
+Div- - ya - Maa na saa - pa- haa-ra! - Maa ra- ja- na- ka--
+pmG , m pdDiv-
+- ya - (Gaanamurthe)
+; ; ; - pmG ; G g r R | rsS ; rr s S-g ; M ||
+-- - - Gaa - - na mur-- the! Sri- - - Kri - shna!
+P dn dp M ,d - pmG , g P , P, | ; md , p M dp D ; dn ||
+Ve - - nu- - - Gaa - - na lo - la - Tribhu -vana Paa-la! - Paa- 
+sn dn dp M , d- G ; G ddpm | G ; gr R S ; ; ; ||
+- - - - hi - - - - Gaa - - na mur-- - - - - - the! - -
+Charanam:
+Navaneetha Chora ! Nanda Satkishora! Naramitra! Dhira! Narasimha! Sura!
+Navamekha Teja ! Nagajaa Sahaja! Narakaantakaaja! Nata Tyagaraaja!
+One who steals (“chora”) butter (“navaneetha”),
+; ; ; M M M ; M | gG-m , ; ; ; ; ; ||
+- - -Na vanee - tha Cho-ra !- - - - - -
+; ; ; dp M M ; M | gG-m , ; ; ; ; rg ||
+- - -Na vanee - tha Cho-ra !- - - - - - 
+
+1.1.3 Automata theory
+Automata Theory deals with definitions and properties of different types of
+“computation models”. Examples of such models are:
+• Finite Automata. These are used in text processing, compilers, and
+hardware design.
+• Context-Free Grammars. These are used to define programming languages
+and in Artificial Intelligence.
+• Turing Machines. These form a simple abstract model of a “real”
+computer, such as your PC at home.
+Central Question in Automata Theory: Do these models have
+the same power, or can one model solve more problems than the
+other?
+1.1.4 This course
+In this course, we will study the last two areas in reverse order: We will start
+with Automata Theory, followed by Computability Theory. The first area,
+Complexity Theory, will be covered in COMP 3804.
+Actually, before we start, we will review some mathematical proof techniques.
+As you may guess, this is a fairly theoretical course, with lots of
+definitions, theorems, and proofs. You may guess this course is fun stuff for
+math lovers, but boring and irrelevant for others. You guessed it wrong, and
+here are the reasons:
+1. This course is about the fundamental capabilities and limitations of
+computers. These topics form the core of computer science.
+2. It is about mathematical properties of computer hardware and software.
+3. This theory is very much relevant to practice, for example, in the design
+of new programming languages, compilers, string searching, pattern
+matching, computer security, artificial intelligence, etc., etc.
+4. This course helps you to learn problem solving skills. Theory teaches
+you how to think, prove, argue, solve problems, express, and abstract.
+4 Chapter 1. Introduction
+5. This theory simplifies the complex computers to an abstract and simple
+mathematical model, and helps you to understand them better.
+6. This course is about rigorously analyzing capabilities and limitations
+of systems.
+Where does this course fit in the Computer Science Curriculum at Carleton
+University? It is a theory course that is the third part in the series
+COMP 1805, COMP 2804, COMP 3803, COMP 3804, and COMP 4804.
+This course also widens your understanding of computers and will influence
+other courses including Compilers, Programming Languages, and Artificial
+Intelligence.
+1.2 Mathematical preliminaries
+Throughout this course, we will assume that you know the following mathematical
+concepts:
+1. A set is a collection of well-defined objects. Examples are (i) the set of
+all Dutch Olympic Gold Medallists, (ii) the set of all pubs in Ottawa,
+and (iii) the set of all even natural numbers.
+2. The set of natural numbers is N = {1, 2, 3, . . .}.
+3. The set of integers is Z = {. . . , −3, −2, −1, 0, 1, 2, 3, . . .}.
+4. The set of rational numbers is Q = {m/n : m ∈ Z, n ∈ Z, n 6= 0}.
+5. The set of real numbers is denoted by R.
+6. If A and B are sets, then A is a subset of B, written as A ⊆ B, if every
+element of A is also an element of B. For example, the set of even
+natural numbers is a subset of the set of all natural numbers. Every
+set A is a subset of itself, i.e., A ⊆ A. The empty set is a subset of
+every set A, i.e., ∅ ⊆ A.
+7. If B is a set, then the power set P(B) of B is defined to be the set of
+all subsets of B:
+P(B) = {A : A ⊆ B}.
+Observe that ∅ ∈ P(B) and B ∈ P(B).
+1.2. Mathematical preliminaries 5
+8. If A and B are two sets, then
+(a) their union is defined as
+A ∪ B = {x : x ∈ A or x ∈ B},
+(b) their intersection is defined as
+A ∩ B = {x : x ∈ A and x ∈ B},
+(c) their difference is defined as
+A \ B = {x : x ∈ A and x 6∈ B},
+(d) the Cartesian product of A and B is defined as
+A × B = {(x, y) : x ∈ A and y ∈ B},
+(e) the complement of A is defined as
+A = {x : x 6∈ A}.
+9. A binary relation on two sets A and B is a subset of A × B.
+10. A function f from A to B, denoted by f : A → B, is a binary relation
+R, having the property that for each element a ∈ A, there is exactly
+one ordered pair in R, whose first component is a. We will also say
+that f(a) = b, or f maps a to b, or the image of a under f is b. The
+set A is called the domain of f, and the set
+{b ∈ B : there is an a ∈ A with f(a) = b}
+is called the range of f.
+11. A function f : A → B is one-to-one (or injective), if for any two distinct
+elements a and a
+′
+in A, we have f(a) 6= f(a
+′
+). The function f is onto
+(or surjective), if for each element b ∈ B, there exists an element a ∈ A,
+such that f(a) = b; in other words, the range of f is equal to the set
+B. A function f is a bijection, if f is both injective and surjective.
+12. A binary relation R ⊆ A × A is an equivalence relation, if it satisfies
+the following three conditions:
+6 Chapter 1. Introduction
+(a) R is reflexive: For every element in a ∈ A, we have (a, a) ∈ R.
+(b) R is symmetric: For all a and b in A, if (a, b) ∈ R, then also
+(b, a) ∈ R.
+(c) R is transitive: For all a, b, and c in A, if (a, b) ∈ R and (b, c) ∈ R,
+then also (a, c) ∈ R.
+13. A graph G = (V, E) is a pair consisting of a set V , whose elements are
+called vertices, and a set E, where each element of E is a pair of distinct
+vertices. The elements of E are called edges. The figure below shows
+some well-known graphs: K5 (the complete graph on five vertices), K3,3
+(the complete bipartite graph on 2 × 3 = 6 vertices), and the Peterson
+graph.
+K5
+K3,3
+Peterson graph
+The degree of a vertex v, denoted by deg(v), is defined to be the number
+of edges that are incident on v.
+A path in a graph is a sequence of vertices that are connected by edges.
+A path is a cycle, if it starts and ends at the same vertex. A simple
+path is a path without any repeated vertices. A graph is connected, if
+there is a path between every pair of vertices.
+14. In the context of strings, an alphabet is a finite set, whose elements
+are called symbols. Examples of alphabets are Σ = {0, 1} and Σ =
+{a, b, c, . . . , z}.
+15. A string over an alphabet Σ is a finite sequence of symbols, where each
+symbol is an element of Σ. The length of a string w, denoted by |w|, is
+the number of symbols contained in w. The empty string, denoted by
+1.3. Proof techniques 7
+ǫ, is the string having length zero. For example, if the alphabet Σ is
+equal to {0, 1}, then 10, 1000, 0, 101, and ǫ are strings over Σ, having
+lengths 2, 4, 1, 3, and 0, respectively.
+16. A language is a set of strings.
+17. The Boolean values are 1 and 0, that represent true and false, respectively.
+The basic Boolean operations include
+(a) negation (or NOT ), represented by ¬,
+(b) conjunction (or AND), represented by ∧,
+(c) disjunction (or OR), represented by ∨,
+(d) exclusive-or (or XOR), represented by ⊕,
+(e) equivalence, represented by ↔ or ⇔,
+(f) implication, represented by → or ⇒.
+The following table explains the meanings of these operations.
+NOT AND OR XOR equivalence implication
+¬0 = 1 0 ∧ 0 = 0 0 ∨ 0 = 0 0 ⊕ 0 = 0 0 ↔ 0 = 1 0 → 0 = 1
+¬1 = 0 0 ∧ 1 = 0 0 ∨ 1 = 1 0 ⊕ 1 = 1 0 ↔ 1 = 0 0 → 1 = 1
+1 ∧ 0 = 0 1 ∨ 0 = 1 1 ⊕ 0 = 1 1 ↔ 0 = 0 1 → 0 = 0
+1 ∧ 1 = 1 1 ∨ 1 = 1 1 ⊕ 1 = 0 1 ↔ 1 = 1 1 → 1 = 1
+1.3 Proof techniques
+In mathematics, a theorem is a statement that is true. A proof is a sequence
+of mathematical statements that form an argument to show that a theorem is
+true. The statements in the proof of a theorem include axioms (assumptions
+about the underlying mathematical structures), hypotheses of the theorem
+to be proved, and previously proved theorems. The main question is “How
+do we go about proving theorems?” This question is similar to the question
+of how to solve a given problem. Of course, the answer is that finding proofs,
+or solving problems, is not easy; otherwise life would be dull! There is no
+specified way of coming up with a proof, but there are some generic strategies
+that could be of help. In this section, we review some of these strategies,
+that will be sufficient for this course. The best way to get a feeling of how
+to come up with a proof is by solving a large number of problems. Here are
+8 Chapter 1. Introduction
+some useful tips. (You may take a look at the book How to Solve It, by G.
+P´olya).
+1. Read and completely understand the statement of the theorem to be
+proved. Most often this is the hardest part.
+2. Sometimes, theorems contain theorems inside them. For example,
+“Property A if and only if property B”, requires showing two statements:
+(a) If property A is true, then property B is true (A ⇒ B).
+(b) If property B is true, then property A is true (B ⇒ A).
+Another example is the theorem “Set A equals set B.” To prove this,
+we need to prove that A ⊆ B and B ⊆ A. That is, we need to show
+that each element of set A is in set B, and that each element of set B
+is in set A.
+3. Try to work out a few simple cases of the theorem just to get a grip on
+it (i.e., crack a few simple cases first).
+4. Try to write down the proof once you have it. This is to ensure the
+correctness of your proof. Often, mistakes are found at the time of
+writing.
+5. Finding proofs takes time, we do not come prewired to produce proofs.
+Be patient, think, express and write clearly and try to be precise as
+much as possible.
+In the next sections, we will go through some of the proof strategies.
+1.3.1 Direct proofs
+As the name suggests, in a direct proof of a theorem, we just approach the
+theorem directly.
+Theorem 1.3.1 If n is an odd positive integer, then n
+2
+is odd as well
+Today's Halloween customs are thought to have been influenced by folk customs
+ and beliefs from the Celtic-speaking countries, some of which are believed 
+ to have pagan roots.[35][36] Jack Santino, a folklorist, writes that "there was 
+ throughout Ireland an uneasy truce existing between customs and beliefs associated 
+ with Christianity and those associated with religions that were Irish before Christianity 
+ arrived".[37] Historian Nicholas Rogers, exploring the origins of Halloween, notes that while 
+ "some folklorists have detected its origins in the Roman feast of Pomona, the goddess of 
+ fruits and seeds, or in the festival of the dead called Parentalia, it is more typically 
+ linked to the Celtic festival of Samhain, which comes from the Old Irish for "summer's end".[35]
+
+Samhain (pronounced /ˈsɑːwɪn/ SAH-win or /ˈsaʊ.ɪn/ SOW-in) was the first and most important of 
+the four quarter days in the medieval Gaelic calendar and was celebrated on 31 October – 1 November in Ireland,
+ Scotland and the Isle of Man.[38][39] A kindred festival was held at the same time of year by the Brittonic Celts,
+  called Calan Gaeaf in Wales, Kalan Gwav in Cornwall and Kalan Goañv in Brittany;
+  
+ a name meaning "first day of winter". For the Celts, the day ended and began at sunset; 
+ thus the festival began on the evening before 1 November by modern reckoning.[40] Samhain
+  and Calan Gaeaf are mentioned in some of the earliest Irish and Welsh literature. 
+  The names have been used by historians to refer to Celtic Halloween customs up
+   until the 19th century,[41] and are still the Gaelic and Welsh names for Halloween.
+   
+ Main Topics: Quantum Theory and the Uncertainty Principle
+INTRODUCTION
+
+Topic Index:
+ - Introduction
+ - Early Developments in Atomic Theory
+ - Quanta and Wave-Particle Duality
+ - Probability Waves and Complementarity
+ - Superposition, Interference and Decoherence
+ - Quantum Tunnelling and the Uncertainty Principle
+ - Nonlocality and Entanglement
+ - Spin and the Pauli Exclusion Principle
+ - Conclusion
+Quantum theory (otherwise known as quantum physics or quantum mechanics) is one 
+of the two main planks of modern physics, along with general relativity, and between them the two theories claim to explain virtually everything about the universe. General relativity gives us our picture of the very big (space-time and gravity), while quantum theory gives us our picture of the very small (atoms and their 
+constituents).
+
+Technically, quantum theory is actually the theory of any objects isolated from their surroundings 
+but, because it is very difficult to isolate large objects from their environments, 
+it essentially becomes a theory of the microscopic world of atoms and sub-atomic particles. This is especially true for those parts of the theory which rely on the absolute indistinguishability of fundamental particles, an indistinguishability which is impossible to find in the everyday world of composite, large-scale objects.
+
+Quantum theory is used in a huge variety of applications in everyday life, including
+ lasers, CDs, DVDs, solar cells, fibre-optics, digital cameras, photocopiers, bar-code 
+ readers, fluorescent lights, LED lights, computer screens, transistors, semi-conductors, super-conductors, 
+ spectroscopy, MRI scanners, etc, etc. By some estimates, over 25% of the GDP of developed countries 
+ is directly based on quantum physics. It even explains the nuclear fusion processes taking place inside stars.
+
+However, some of its findings and principles are distinctly counter-intuitive and fiendishly
+ difficult to explain in simple language, without resorting to complex mathematics way beyond the
+  comfort level of most people (myself included!). This situation is not helped by the fact that the “theory” 
+  is largely a patchwork of fragments accrued over the last century or so, that some elements of it are still 
+  not well understood by the scientists themselves, and that some of the bizarre behaviour it predicts appears
+   to fly in face of what we have come to think of as common sense.
+
+A small part of the derivation for Schrödinger's equation of quantum mechanics - click for
+ larger version
+(Click for a larger version)
+A small part of the derivation for Schrödinger's equation of quantum mechanics
+(Source: Wikipedia: http://en.wikipedia.org/wiki/
+Schr%C3%B6dinger_equation)
+Richard Feynman, winner of the 1965 Nobel Prize for Physics and arguably one of the greatest physicists of the post-war era, is unapologetically frank: “I think I can safely say that nobody understands quantum mechanics”. Niels Bohr, one the main pioneers of quantum theory, claimed that: “Anyone who is not shocked by quantum theory has not understood it”.
+
+In the 1920s and 1930s, Bohr, Schrödinger, Heisenberg and others discovered that the atomic world is in fact full of murkiness and chaos, and not the precision clockwork suggested by classical theory. Classical physics can be considered as a good approximation to quantum physics, typically in circumstances with large numbers of particles. Indeed, classical physics has served us well up until the 20th Century, and for most everyday purposes it still does. But modern physics, which includes quantum physics and general relativity, is more all-encompassing, more fundamental and altogether more accurate - physics taken to a different level. Momentum and position, for instance, are approximations of the world of larger-sized things that we call the classical world, but the underlying reality of the quantum world is quite different.
+
+As we will see, even a rough understanding of quantum theory requires some background discussion of atomic theory and some discussion of the uncertainty principle before any sense at all can be made of it. Only then will some of the more obscure and bizarre aspects of quantum theory (such as wave-particle duality, superposition, nonlocality, decoherence, etc) make a little more se
+RAGAM-Ganamurthi (3rd Melakartha)
+ AROHANA: S R1 G1 M1 P D1 N3 S ||
+ AVAROHANA: S N3 D1 P M1 G1 R1 S ||
+Talam: Deshadi
+Composer: Tyagaraja
+Version: T N Seshagopalan
+Pallavi:
+Gaanamurthe! Sri Krishna! Venu-Gaanalola! Tribhuvana Paala! Paahi
+Anupallavi:
+Maaninimani Sri Rukmini Maanasaapahaara! Maarajanaka Divya
+Charanam:
+Navaneetha Chora ! Nanda Satkishora! Naramitra! Dhira! Narasimha! Sura!
+Navamekha Teja ! Nagajaa Sahaja! Narakaantakaaja! Nata Tyagaraaja!
+Meaning:
+O Embodiment (“murthe”) of music (“Gaana”), Sri Krishna! Lover (“lola”) of playing the flute
+(“venugaana”)! Protector (“paala”) of the three (“tri”) worlds (“bhuvana”)! Pray, protect me (“paahi”).
+One who stole(“apahaara”) the heart (“maanasa”) of Rukmini, the jewel (“mani”) among the women
+(“maanini”), and Creator (“janaka”) of Cupid (“maara”)!
+One who steals (“chora”) butter (“navaneetha”), son (“satkishora”) of Nanda, and friend (“mitra”) of
+Arjuna (“nara”). O Courageous (“dhira”) one! O Narasimha! O Brave one (“sura”)! Having the hue
+(“teja”) of the dark (“nava”) clouds (“mekha”)! Brother (“sahaja”) of goddess Parvath (“nagajaa”)i!
+Destroyer (“antakaja”) of Narakasura (“naraka”)! O the one without a beginning (“antakaja” -- second
+meaning)! Pray (“nata”) protect me!
+Pallavi:
+Gaanamurthe! Sri Krishna! Venu-Gaanalola! Tribhuvana Paala! Paahi
